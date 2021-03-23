@@ -2,7 +2,8 @@
 
 This is a collection of good product engineering resources.
 
-Contributions welcome.
+Contributions welcome. 
+This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe](https://twitter.com/joemoeAT).
 
 ## ✨ North Stars & 🛤 Guard Rails
 
