@@ -23,13 +23,26 @@ This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe]
 
 ## 🤼 Product Leadership
 
+* [Empowered by Marty Cagan](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
+* [Naval Ravikant](https://nav.al/)
+
 ## 🥰 Hiring in Product Engineering Organisations
 
 * [Product Manager Job Ad by Marty Cagan](https://svpg.com/product-manager-job-description/)
 * [Interviewing Software Engineers by Lena Reinhard](https://circleci.com/blog/how-we-interview-software-engineers-what-we-ve-learned-what-we-ve-changed/)
 * [Onboard New Employees by Christoph Benedikt](https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/)
 * [Essential Remote Onboarding Checklists by Joshua Tomlin-Casera](https://circleci.com/blog/essential-checklists-for-onboarding-remote-employees/)
+* [Cracking the PM Interview by Gayle Laakmann McDowell](https://www.crackingthepminterview.com/)
 
 ## 🗿 Product Engineering Culture
 
 * 🎥 [Performance vs. Trust by Simon Sinek](https://www.youtube.com/watch?v=YPDmNaEG8v4)
+
+## 🚜 Product Blogs
+
+* [Lenny's Newsletter by Lenny Rachitsky](https://www.lennyrachitsky.com/)
+* [Product Lessons by Linda Z](https://productlessons.substack.com/)
+
+## 🎨 Product Design
+
+* [Growth and Psychology by growth.design](https://growth.design/)
