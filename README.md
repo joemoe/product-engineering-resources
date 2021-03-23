@@ -29,3 +29,5 @@ Contributions welcome.
 * [Onboard New Employees by Christoph Benedikt](https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/)
 
 ## 🗿 Product Engineering Culture
+
+* 🎥 [Performance vs. Trust by Simon Sinek](https://www.youtube.com/watch?v=YPDmNaEG8v4)
