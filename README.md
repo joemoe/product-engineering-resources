@@ -25,8 +25,9 @@ Contributions welcome.
 ## 🥰 Hiring in Product Engineering Organisations
 
 * [Product Manager Job Ad by Marty Cagan](https://svpg.com/product-manager-job-description/)
-* [Interviewing Software Engineers by Lena Reinhard](https://circleci.com/blog/how-we-interview-software-engineers-what-we-ve-learned-what-we-ve-changed/)x
+* [Interviewing Software Engineers by Lena Reinhard](https://circleci.com/blog/how-we-interview-software-engineers-what-we-ve-learned-what-we-ve-changed/)
 * [Onboard New Employees by Christoph Benedikt](https://crate.io/a/how-we-use-trello-to-help-us-onboard-our-new-employees/)
+* [Essential Remote Onboarding Checklists by Joshua Tomlin-Casera](https://circleci.com/blog/essential-checklists-for-onboarding-remote-employees/)
 
 ## 🗿 Product Engineering Culture
 
