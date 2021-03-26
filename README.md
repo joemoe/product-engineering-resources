@@ -42,6 +42,7 @@ This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe]
 
 * [Lenny's Newsletter by Lenny Rachitsky](https://www.lennyrachitsky.com/)
 * [Product Lessons by Linda Z](https://productlessons.substack.com/)
+* [Ask Gib by Gibson Biddle](https://askgib.substack.com/)
 
 ## 🎨 Product Design
 
