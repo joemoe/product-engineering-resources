@@ -47,3 +47,6 @@ This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe]
 ## 🎨 Product Design
 
 * [Growth and Psychology by growth.design](https://growth.design/)
+
+## 🦬 Remote
+* [Manage Remote Engineering Teams by Andreas Klinger](https://www.youtube.com/watch?v=EKSGhOBnRPw)
