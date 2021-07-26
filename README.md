@@ -25,6 +25,7 @@ This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe]
 
 * [Empowered by Marty Cagan](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
 * [Naval Ravikant](https://nav.al/)
+* [The Coaching Mindset by Chris Jones](https://svpg.com/the-coaching-mindset/)
 
 ## 🥰 Hiring in Product Engineering Organisations
 
