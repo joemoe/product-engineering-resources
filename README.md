@@ -21,6 +21,8 @@ This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe]
 
 ## 🚛 Product Delivery
 
+* [The Complete Guide to the Kano Model on career.pm](https://www.career.pm/briefings/kano-model)
+
 ## 🤼 Product Leadership
 
 * [Empowered by Marty Cagan](https://svpg.com/empowered-ordinary-people-extraordinary-products/)
