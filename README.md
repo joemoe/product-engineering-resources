@@ -53,6 +53,7 @@ This project is maintained by [Luke](https://twitter.com/lukasbernert) and [Joe]
 
 ## 🦬 Remote
 * [Manage Remote Engineering Teams by Andreas Klinger](https://www.youtube.com/watch?v=EKSGhOBnRPw)
+* [How to embrace asynchronous communication for remote work by Gitlab](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 
 ## 💉 Resources
 * [Visual guide to the best books on product management by Nils Janse](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management)
